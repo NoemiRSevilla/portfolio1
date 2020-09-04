@@ -1,0 +1,14 @@
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/bin/Debug/netcoreapp2.2/portfolioI.deps.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/bin/Debug/netcoreapp2.2/portfolioI.runtimeconfig.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/bin/Debug/netcoreapp2.2/portfolioI.runtimeconfig.dev.json
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/bin/Debug/netcoreapp2.2/portfolioI.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/bin/Debug/netcoreapp2.2/portfolioI.pdb
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.csprojAssemblyReference.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.csproj.CoreCompileInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.RazorAssemblyInfo.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.RazorAssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.AssemblyInfoInputs.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.AssemblyInfo.cs
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.RazorTargetAssemblyInfo.cache
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.dll
+/Users/IrockMyWarlock/Desktop/codingdojo/c#/language_essentials/ASP1/portfolioI/obj/Debug/netcoreapp2.2/portfolioI.pdb
